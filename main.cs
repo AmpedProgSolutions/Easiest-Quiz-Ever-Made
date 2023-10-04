@@ -1,6 +1,6 @@
 using System;
 
-class MathQuiz
+class Program
 {
     static void Main()
     {
